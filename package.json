@@ -1,0 +1,18 @@
+{
+  "name": "technic-framework",
+  "version": "1.0.0",
+  "main": "src/Technic/envControl.lua",
+  "repository": "https://github.com/Dollor-Lua/Technic/",
+  "author": "DollorLua <https://www.roblox.com/users/81324278/profile>",
+  "license": "Apache-2.0",
+  "private": false,
+  "scripts": {
+    "test": "setfenv(1, require(src/Technic/envControl.lua)); print(__tV);"
+  },
+  "dependencies": {
+    "luau": "^5.2",
+  },
+  "devDependencies": {
+    "luau": "^5.2",
+  }
+}
