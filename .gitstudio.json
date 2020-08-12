@@ -1,0 +1,14 @@
+{
+  "ignore": [
+    "res",
+    "res-raw",
+    ".vscode",
+    "artwork",
+    "CONTRIBUTORS.md",
+    "package.json",
+    "LICENSE",
+    "version",
+    "README.md",
+    "src/Technic Code/"
+  ]
+}
