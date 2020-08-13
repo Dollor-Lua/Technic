@@ -10,9 +10,10 @@
     "test": "setfenv(1, require(src/Technic/envControl.lua)); print(__tV);"
   },
   "dependencies": {
-    "luau": "^5.2",
+    "discord.js": "^12.2.0",
+    "luau": "^5.2"
   },
   "devDependencies": {
-    "luau": "^5.2",
+    "luau": "^5.2"
   }
 }
